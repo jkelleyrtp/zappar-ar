@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/zappar-ar/static/css/main.a25be651.chunk.css",
+    "main.js": "/zappar-ar/static/js/main.1fdc7bba.chunk.js",
+    "main.js.map": "/zappar-ar/static/js/main.1fdc7bba.chunk.js.map",
+    "runtime-main.js": "/zappar-ar/static/js/runtime-main.e76b8abb.js",
+    "runtime-main.js.map": "/zappar-ar/static/js/runtime-main.e76b8abb.js.map",
+    "static/js/2.a78123f8.chunk.js": "/zappar-ar/static/js/2.a78123f8.chunk.js",
+    "static/js/2.a78123f8.chunk.js.map": "/zappar-ar/static/js/2.a78123f8.chunk.js.map",
+    "static/js/3.9e7f6e7f.chunk.js": "/zappar-ar/static/js/3.9e7f6e7f.chunk.js",
+    "static/js/3.9e7f6e7f.chunk.js.map": "/zappar-ar/static/js/3.9e7f6e7f.chunk.js.map",
+    "face_tracking_model.zbin": "/zappar-ar/482727c0e7dd40d73f5aae47f238ad61.zbin",
+    "face_mesh_face_model.zbin": "/zappar-ar/b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
+    "face_mesh_full_head_simplified_model.zbin": "/zappar-ar/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
+    "index.html": "/zappar-ar/index.html",
+    "static/css/main.a25be651.chunk.css.map": "/zappar-ar/static/css/main.a25be651.chunk.css.map",
+    "static/js/2.a78123f8.chunk.js.LICENSE.txt": "/zappar-ar/static/js/2.a78123f8.chunk.js.LICENSE.txt",
+    "static/js/worker.27c4b5e6.worker.js": "/zappar-ar/static/js/worker.27c4b5e6.worker.js",
+    "static/js/worker.27c4b5e6.worker.js.map": "/zappar-ar/static/js/worker.27c4b5e6.worker.js.map",
+    "static/media/example-tracking-image.775f3d2f.zpt": "/zappar-ar/static/media/example-tracking-image.775f3d2f.zpt",
+    "zcv/zcv.wasm": "/zappar-ar/zcv/zcv.wasm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e76b8abb.js",
+    "static/js/2.a78123f8.chunk.js",
+    "static/css/main.a25be651.chunk.css",
+    "static/js/main.1fdc7bba.chunk.js"
+  ]
+}
